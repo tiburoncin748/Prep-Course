@@ -151,9 +151,9 @@ function esPrimo(numero) {
   // Nota: Los números 0 y 1 NO son considerados números primos
   if (numero % numero === 0 && numero % 1 === 0){
     return true;
-  } else {
+  } 
     return false;
-  }
+  
 }
 
 function esVerdadero(valor){
