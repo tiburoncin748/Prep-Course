@@ -90,8 +90,6 @@ function esDiezOCinco(numero) {
   } else{
     return false;
   }
-    
-  }
 }
 
 function estaEnRango(numero) {
